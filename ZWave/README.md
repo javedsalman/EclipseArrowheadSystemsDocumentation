@@ -33,5 +33,5 @@ This is the provider which receive POST request from the consumer for switching 
 
 ##	Behavior Diagrams
 
-![picture](doc/ArrowheadZwaveSystemDemonstrator.png)
+![picture](ArrowheadZwaveSystemDemonstrator.png)
 
